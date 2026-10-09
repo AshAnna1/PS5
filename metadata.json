@@ -1,0 +1,8 @@
+{
+  "name": "KytyPS5",
+  "description": "PlayStation 5 and PlayStation 4 emulator manager, game library, compatibility database, patch manager, trophy tracker, and emulator runner for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
